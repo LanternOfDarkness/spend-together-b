@@ -14,6 +14,12 @@ pip install -r requirements.txt
 
 ## Usage
 
+Migrate the database:
+
+```bash
+python manage.py migrate
+```
+
 To start the backend, run the following command:
 
 ```bash
